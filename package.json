@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/mglaum/observability/issues"
   },
-  "homepage": "https://github.com/mglaum/observability#readme"
+  "homepage": "https://github.com/mglaum/observability#readme",
+  "dependencies": {
+    "@opentelemetry/api": "^1.7.0",
+    "@opentelemetry/exporter-jaeger": "^1.18.1",
+    "@opentelemetry/exporter-metrics-otlp-proto": "^0.45.1",
+    "@opentelemetry/exporter-trace-otlp-proto": "^0.45.1",
+    "@opentelemetry/instrumentation-http": "^0.45.1",
+    "@opentelemetry/instrumentation-mongodb": "^0.37.3",
+    "@opentelemetry/sdk-trace-node": "^1.18.1",
+    "express": "^4.18.2",
+    "mongodb": "^4.3.1",
+    "opentelemetry-instrumentation-express": "^0.40.0"
+  }
 }
