@@ -1,0 +1,19 @@
+{
+  "name": "observability",
+  "version": "1.0.0",
+  "description": "\"new project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mglaum/observability.git"
+  },
+  "author": "Maddie Glaum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mglaum/observability/issues"
+  },
+  "homepage": "https://github.com/mglaum/observability#readme"
+}
